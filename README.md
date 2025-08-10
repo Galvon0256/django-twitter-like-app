@@ -31,8 +31,8 @@ Run ```python manage.py makemigrations```
 
 Run ```python manage.py migrate```
 
-Start the Django server at ```http://0.0.0.0:8000```
+Start the Django server at ```http://localhost:8000```
 
-🌐 Accessing the App
-App: http://localhost:8000
+🌐 Accessing the App /n
+App: http://localhost:8000 /n
 Admin: http://localhost:8000/admin
