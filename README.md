@@ -21,19 +21,18 @@ cd your-repo
 ```bash
 docker-compose build
 ```
-3. Run the Container
+### 3. Run the Container
 ```bash
 docker-compose up
 ```
 This will:
 
-Run python manage.py makemigrations
+Run ```python manage.py makemigrations```
 
-Run python manage.py migrate
+Run ```python manage.py migrate```
 
-Start the Django server at http://0.0.0.0:8000
+Start the Django server at ```http://0.0.0.0:8000```
 
 🌐 Accessing the App
 App: http://localhost:8000
-
 Admin: http://localhost:8000/admin
