@@ -1,4 +1,4 @@
-# Django Project (Docker Setup)
+# Docker Setup
 
 This guide explains how to run this Django project locally using Docker.
 
